@@ -11,9 +11,10 @@
           <a href="#portfolio" class="text-white text-sm sm:text-base">Portfolio</a>
           <a href="#contact" class="text-white text-sm sm:text-base">Contact</a>
         </nav>
-        <button class="bg-amber-500 text-white hover:bg-white hover:text-blue-500 font-light py-2 px-4 rounded-full transition duration-300 text-sm sm:text-base">
+        
+        <a href="/src/assets/cv/manfred.pdf" download="Manfred_Moukate_CV" class="bg-amber-500 text-white hover:bg-white hover:text-blue-500 font-light py-2 px-4 rounded-full transition duration-300 text-sm sm:text-base">
           Download CV
-        </button>
+        </a>
       </div>
 
       <!-- Section description et photo -->

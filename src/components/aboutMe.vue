@@ -30,6 +30,11 @@
             Il y a de cela plus de 2 ans que je travaille en tant que développeur.
           </p>
         </div>
+        <div class="mt-4">
+          <a href="/src/assets/cv/manfred.pdf" download="Manfred_Moukate_CV" class="bg-amber-500 text-white hover:bg-white hover:text-blue-500 font-light py-2 px-4 rounded-full transition duration-300 text-sm sm:text-base">
+          Download CV
+        </a>
+        </div>
       </div>
     </div>
   </div>
