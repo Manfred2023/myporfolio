@@ -12,7 +12,7 @@
           <a href="#contact" class="text-white text-sm sm:text-base">Contact</a>
         </nav>
 
-        <a href="/src/assets/cv/manfred.pdf" download="Manfred_Moukate_CV" class="bg-amber-500 text-white hover:bg-white hover:text-blue-500 font-light py-2 px-4 rounded-full transition duration-300 text-sm sm:text-base">
+        <a href="assets/cv/manfred.pdf" download="Manfred_Moukate_CV" class="bg-amber-500 text-white hover:bg-white hover:text-blue-500 font-light py-2 px-4 rounded-full transition duration-300 text-sm sm:text-base">
           Download CV
         </a>
       </div>
@@ -31,7 +31,7 @@
             <button class="bg-amber-500 text-white hover:bg-white hover:text-blue-500 font-light py-2 px-4 rounded-full transition duration-300">
               Get Started
             </button>
-          
+
             <a href="https://wa.me/+237699888709?text=Bonjour Manfred, j'aimerai avoir vos prestation" target="_blank" rel="noopener noreferrer" class="bg-transparent hover:bg-blue-500 hover:border-transparent text-white font-light hover:text-white py-2 px-4 border border-white rounded-full">
               Contact us
             </a>
